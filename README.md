@@ -1,6 +1,6 @@
 # Sudoku-in-Java-from-scratch
 
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Image")
 
 This was a final project for one of my undergraduate classes. I created a Sudoku game in Java from scratch
 
