@@ -1,0 +1,5 @@
+Sudo01 10
+Sudo03 6
+Sudo02 4
+gasdsg 2
+Player01 1
